@@ -1,6 +1,6 @@
 {
-    "name": "entercode/helper",
-    "description": "Helper For Code",
+    "name": "entercode/sdk",
+    "description": "SDK For Code",
     "type": "library",
     "license": "MIT",
     "authors": [
