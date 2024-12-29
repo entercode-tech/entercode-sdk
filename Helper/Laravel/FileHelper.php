@@ -1,6 +1,6 @@
 <?php
 
-namespace Entercode\Helper\Laravel;
+namespace EntercodeSdk\Helper\Laravel;
 
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
